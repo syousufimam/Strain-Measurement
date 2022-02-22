@@ -1,6 +1,6 @@
 # Strain-Measurement-
 
-This folder contains 
+This folder GUI Deliverables contains 
 
 1- MyAppInstaller_web - Strain Measurement application
 
